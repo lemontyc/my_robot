@@ -40,30 +40,30 @@
 
 
     <collision name='back_caster_collision'>
-      <origin xyz="-0.155 0 -0.1" rpy=" 0 0 0"/>
+      <origin xyz="-0.15 0 -0.1" rpy=" 0 0 0"/>
       <geometry>
-        <sphere radius="0.199"/>
+        <sphere radius="0.1995"/>
       </geometry>
     </collision>
 
     <visual name='back_caster_visual'>
-      <origin xyz="-0.155 0 -0.1" rpy=" 0 0 0"/>
+      <origin xyz="-0.15 0 -0.1" rpy=" 0 0 0"/>
       <geometry>
-        <sphere radius="0.2"/>
+        <sphere radius="0.205"/>
       </geometry>
     </visual>
 
     <collision name='front_caster_collision'>
-      <origin xyz="0.155 0 -0.1" rpy=" 0 0 0"/>
+      <origin xyz="0.15 0 -0.1" rpy=" 0 0 0"/>
       <geometry>
-        <sphere radius="0.199"/>
+        <sphere radius="0.1995"/>
       </geometry>
     </collision>
 
     <visual name='front_caster_visual'>
-      <origin xyz="0.155 0 -0.1" rpy=" 0 0 0"/>
+      <origin xyz="0.15 0 -0.1" rpy=" 0 0 0"/>
       <geometry>
-        <sphere radius="0.2"/>
+        <sphere radius="0.205"/>
       </geometry>
     </visual>
 
