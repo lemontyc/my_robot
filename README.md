@@ -17,7 +17,7 @@ This is a generic appartment world loaded with obstacles. It includes a  differe
 $ roslaunch my_robot world.launch
 ```
 3. Open **config.rviz** in RVIZ to visualize lidar point cloud and camera image.
-4. Move the robot by publishing  a **/Twist** message to topic **/cmd_vel**:
+4. Move the robot by publishing  a **/Twist** message to topic **/cmd_vel** (linear x, and angular z):
 ```sh
 $ rostopic pub /cmd_vel geotry_msgs/Twist "linear:
   x: 0.3
