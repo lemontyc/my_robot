@@ -43,6 +43,6 @@ This will start gazebo with the world loaded, as well as RVIZ. If you publish a 
 
 * **Luis M.**           - [GitHub](https://github.com/lemontyc)
 
-Distriuted under the MIT License. See ``LICENSE`` for more information.
+Distributed under the MIT License. See ``LICENSE`` for more information.
 
 This project was developed for the **Robotics software Engineer Nanodegree Program** course at **Udacity**.
