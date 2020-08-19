@@ -34,10 +34,10 @@ This will start gazebo with the world loaded, as well as RVIZ. If you publish a 
 ## Pictures
 
 #### World
-![World](images/world.png)
+![World](images/World.png)
 
 #### Robot
-![World](images/robot.png)
+![World](images/Robot.png)
 
 ## Meta
 
